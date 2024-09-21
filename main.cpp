@@ -1,9 +1,7 @@
 #include <iostream>
 #include <sstream>
 
-/*为什么会发生这种事情*/
-/*问题出在哪里呢*/
-
+/*本地提交和远程提交是否是一个地方*/
 int main()
 {
     std::cout << "Hello, World!" << std::endl;
